@@ -1,7 +1,7 @@
 # Experiment 1 -  Charachter Count
 
 ## Aim of the Experiment
-to implement data link layer framing ethod character count.
+to implement data link layer framing method character count.
 
 ### step by step procedure of experiment
 1.scanning the number of frames and their data
